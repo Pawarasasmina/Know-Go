@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Book">Book a vehicle</string>
+    <string name="Prius">Toyota Prius - 2020</string>
+    <string name="showall">Show All</string>
+    <string name="categories">Categories</string>
+    <string name="cars">Car</string>
+    <string name="vans">Van</string>
+    <string name="buses">Bus</string>
+    <string name="spec">Specifications</string>
+    <string name="date">Date</string>
+    <string name="payment">Payment</string>
+    <string name="previous">Previous Page</string>
+    <string name="nxt">Next Page</string>
+    <string name="cod">Cash on Physically</string>
+    <string name="book">Book</string>
+    <string name="usrnme">Username</string>
+    <string name="pw">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="nameex">Linton Das</string>
+    <string name="phoneex">0774343256</string>
+    <string name="unex">Linton@123</string>
+    <string name="edit">Edit Booking</string>
+    <string name="cancel">Cancel Booking</string>
+    <string name="end">No More Bookings...</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_launching">launching</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
